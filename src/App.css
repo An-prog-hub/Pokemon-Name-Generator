@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  font-size-adjust: 2rem;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #eef1f5 );
+}
